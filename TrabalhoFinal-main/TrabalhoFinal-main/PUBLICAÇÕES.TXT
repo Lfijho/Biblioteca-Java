@@ -1,0 +1,130 @@
+
+1. "1984" - George Orwell
+2. "Orgulho e Preconceito" - Jane Austen
+3. "O Grande Gatsby" - F. Scott Fitzgerald
+4. "Dom Quixote" - Miguel de Cervantes
+5. "Cem Anos de Solidão" - Gabriel García Márquez
+6. "A Revolução dos Bichos" - George Orwell
+7. "O Apanhador no Campo de Centeio" - J.D. Salinger
+8. "Crime e Castigo" - Fiódor Dostoiévski
+9. "O Senhor dos Anéis" - J.R.R. Tolkien
+10. "Ulisses" - James Joyce
+11. "Moby Dick" - Herman Melville
+12. "O Processo" - Franz Kafka
+13. "O Sol é para Todos" - Harper Lee
+14. "O Pequeno Príncipe" - Antoine de Saint-Exupéry
+15. "A Metamorfose" - Franz Kafka
+16. "Os Miseráveis" - Victor Hugo
+17. "A Divina Comédia" - Dante Alighieri
+18. "Lolita" - Vladimir Nabokov
+19. "O Morro dos Ventos Uivantes" - Emily Brontë
+20. "A Insustentável Leveza do Ser" - Milan Kundera
+21. "O Retrato de Dorian Gray" - Oscar Wilde
+22. "O Velho e o Mar" - Ernest Hemingway
+23. "O Nome da Rosa" - Umberto Eco
+24. "O Conde de Monte Cristo" - Alexandre Dumas
+25. "O Amor nos Tempos de Cólera" - Gabriel García Márquez
+26. "A Ilha do Tesouro" - Robert Louis Stevenson
+27. "O Médico e o Monstro" - Robert Louis Stevenson
+28. "O Estrangeiro" - Albert Camus
+29. "A Peste" - Albert Camus
+30. "O Príncipe" - Nicolau Maquiavel
+31. "Guerra e Paz" - Lev Tolstói
+32. "Anna Karenina" - Lev Tolstói
+33. "O Vermelho e o Negro" - Stendhal
+34. "Madame Bovary" - Gustave Flaubert
+35. "As Vinhas da Ira" - John Steinbeck
+36. "A Revolução Francesa" - Thomas Carlyle
+37. "Os Três Mosqueteiros" - Alexandre Dumas
+38. "O Homem Invisível" - H.G. Wells
+39. "A Guerra dos Mundos" - H.G. Wells
+40. "O Hobbit" - J.R.R. Tolkien
+41. "As Crônicas de Nárnia" - C.S. Lewis
+42. "O Leão, a Feiticeira e o Guarda-Roupa" - C.S. Lewis
+43. "A Bíblia Sagrada"
+44. "O Livro dos Espíritos" - Allan Kardec
+45. "Os Lusíadas" - Luís de Camões
+46. "Os Maias" - Eça de Queirós
+47. "Memórias Póstumas de Brás Cubas" - Machado de Assis
+48. "Dom Casmurro" - Machado de Assis
+49. "Grande Sertão: Veredas" - Guimarães Rosa
+50. "Vidas Secas" - Graciliano Ramos
+51. "Minha Vida de Menina" - Helena Morley
+52. "Capitães da Areia" - Jorge Amado
+53. "Gabriela, Cravo e Canela" - Jorge Amado
+54. "A Hora da Estrela" - Clarice Lispector
+55. "Laços de Família" - Clarice Lispector
+56. "Macunaíma" - Mário de Andrade
+57. "Sagarana" - João Guimarães Rosa
+58. "Primeiras Estórias" - João Guimarães Rosa
+59. "A Paixão Segundo G.H." - Clarice Lispector
+60. "O Cortiço" - Aluísio Azevedo
+61. "Memórias de um Sargento de Milícias" - Manuel Antônio de Almeida
+62. "Iracema" - José de Alencar
+63. "O Guarani" - José de Alencar
+64. "Os Sertões" - Euclides da Cunha
+65. "Triste Fim de Policarpo Quaresma" - Lima Barreto
+66. "O Ateneu" - Raul Pompeia
+67. "Memórias Sentimentais de João Miramar" - Oswald de Andrade 
+68. "Mayombe" - Pepetela 
+69. "Os Sofrimentos do Jovem Werther" - Johann Wolfgang von Goethe 
+70. "A Montanha Mágica" - Thomas Mann 
+71. "Paraíso Perdido" - John Milton 
+72. "A Volta ao Mundo em 80 Dias" - Júlio Verne 
+73. "Viagem ao Centro da Terra" - Júlio Verne 
+74. "Vinte Mil Léguas Submarinas" - Júlio Verne 
+75. "As Viagens de Gulliver" - Jonathan Swift 
+76. "Robinson Crusoe" - Daniel Defoe 
+77. "Frankenstein ou o Prometeu Moderno"- Mary Shelley 
+78. "Alice no País das Maravilhas"- Lewis Carroll 
+79. "O Corcunda de Notre Dame"- Victor Hugo 
+80. "Os Quatro Amores"- C.S Lewis 
+81."A Cabana"- William P.Young 
+82."A Arte da Guerra"- Sun Tzu 
+83."Pai Rico, Pai Pobre"- Robert Kiyosaki 
+84."Mentes Brilhantes, Mentes Treinadas"- Augusto Cury 
+85."Como Fazer Amigos e Influenciar Pessoas"- Dale Carnegie 
+86."A Sutil Arte de Ligar o F*da-se"- Mark Manson 
+87."A Coragem de Ser Imperfeito"- Brené Brown 
+88."A Revolta de Atlas"- Ayn Rand 
+89."Assassinato no Expresso Oriente"- Agatha Christie 
+90."E Não Sobrou Nenhum"- Agatha Christie 
+91."O Caso dos Dez Negrinhos"- Agatha Christie 
+92."O Homem que Sabia Demais"- G.K Chesterton 
+93."Sherlock Holmes"- Arthur Conan Doyle 
+94."As Aventuras de Tom Sawyer"- Mark Twain 
+95."As Aventuras de Huckleberry Finn"- Mark Twain 
+96."A Arte da Felicidade"- Dalai Lama 
+97."Sapiens: Uma Breve História da Humanidade"- Yuval Noah Harari 
+98."21 Lições para o Século 21"- Yuval Noah Harari 
+99."O Poder do Agora"- Eckhart Tolle 
+100."O Milagre da Manhã"- Hal Elrod 
+
+REVISTAS
+
+
+1. National Geographic
+2. Time
+3. Vogue
+4. The New Yorker
+5. Rolling Stone
+6. People
+7. Sports Illustrated
+8. Wired
+9. Forbes
+10. Cosmopolitan
+11. GQ
+12. Scientific American
+13. Esquire
+14. Harper's Bazaar
+15. Elle
+16. Entertainment Weekly
+17. Fortune
+18. Reader's Digest
+19. Men's Health
+20. Women's Health
+21. National Geographic Traveler
+22. Architectural Digest
+23. Bon Appétit
+24. Popular Science
+25. Smithsonian Magazine
